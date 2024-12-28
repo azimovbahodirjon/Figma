@@ -1,0 +1,44 @@
+.footer {
+    width: 1600px;
+    height: 80px;
+    top: 0px;
+    left: 1600px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    align-items: center;
+    background-color: #FFE6D2;
+}
+
+.footer__blog1 {
+    display: flex;
+}
+
+.footer__img {
+    padding-right: 42px;
+}
+
+.footer__text {
+    width: 121px;
+    height: 24px;
+    top: 30.52px;
+    left: 322px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 20px;
+    color: #000000;
+}
+
+.footer__icon1 {
+    padding-left: 800px;
+}
+
+.footer__icon2 {
+    padding: 20px;
+}
+
+.footer__icon3 {}
+
+.footer__icon4 {
+    padding: 20px;
+}

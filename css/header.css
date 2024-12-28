@@ -1,0 +1,36 @@
+.header {
+    width: 1600px;
+    gap: 0px;
+    display: flex;
+    opacity: 0px;
+    background-color: #232536;
+    height: 80px;
+    align-items: center;
+}
+
+.container {}
+
+.header__img {
+    padding-right: 460px;
+}
+
+.header__blog1 {
+    display: flex;
+}
+
+.header__ul {
+    display: flex;
+    gap: 32px;
+}
+
+.header__a {
+    color: #FFFFFF;
+}
+
+.header__clone {
+    color: #FFD3AF;
+}
+
+.header__chiziq {
+    padding-left: 8px;
+}
