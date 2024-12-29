@@ -1,0 +1,30 @@
+.btn {
+    width: 200px;
+    height: 64px;
+    top: 588px;
+    left: 160px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #444CFC;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.btn__img1 {
+    margin-top: -35px;
+}
+
+.btn__text {
+    padding-left: 12px;
+    padding-right: 16px;
+}
+
+.btn__img2 {}

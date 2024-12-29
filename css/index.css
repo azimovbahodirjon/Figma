@@ -1,0 +1,89 @@
+.main {}
+
+.container {}
+
+.main__blog1 {
+    width: 1600px;
+    height: 898px;
+    top: 80px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    background-color: #232536;
+    color: #ffffff;
+}
+
+.main__blog1__list1 {
+    padding-left: 160px;
+    padding-top: 152px;
+}
+
+.list1__img1 {}
+
+.list1__h1 {
+    font-family: "Poppins";
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 68px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 600px;
+}
+
+.list1__texts {}
+
+.btn {}
+
+.btn__img1 {}
+
+.btn__text {}
+
+.btn__img2 {}
+
+.main__blog__list2 {}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #232536;
+}
+
+.main {
+    flex-grow: 1;
+}
+
+.container {
+    width: 100%;
+    max-width: 1380px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
